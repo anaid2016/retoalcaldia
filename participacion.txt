@@ -1,0 +1,4 @@
+Autor: Diana Carolina Carrillo
+Tecnologia: PHP+Mysq+Javascript
+Tipo: Sistema Escalable para visualización de indicadores
+Tiempo Version Estable: 1 semana
